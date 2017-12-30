@@ -1,0 +1,5 @@
+# Configuration file
+configuration.py
+
+# Python virtual-environment
+lib/venv
